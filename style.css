@@ -1,0 +1,32 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+/*I had trouble loading the correct CSS file for some reason 
+so I had to edit the name.*/
+table{
+  width:750px;
+  height:700px;
+}
+
+table td{
+  padding: 5px;
+  margin: 1px;
+  border:1px solid black;
+
+}
+td{
+  min-width: 145px;
+  min-height: 150px;
+  padding: 0px;
+  margin: 0px;
+  text-align: center
+}
+
+#jeopardy {
+  background-color: #115ff4;
+  border-collapse: collapse;
+}
